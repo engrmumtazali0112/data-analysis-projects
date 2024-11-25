@@ -3,7 +3,11 @@
 I'm thrilled to share my collection of **Data Analysis Projects**, where I explored real-world datasets to uncover insights and build predictive models. These projects showcase my skills in **data cleaning**, **exploratory data analysis (EDA)**, **visualization**, and **machine learning techniques**.
 
 ---
+📑 Project Documents
+Click the links below to download key documents from my Data Analysis Projects journey:
 
+📄 Offer Letter: <a href="https://github.com/engrmumtazali0112/data-analysis-projects/blob/main/Offer%20Letter.pdf" download="Offer_Letter.pdf" target="_blank"> <img src="https://img.shields.io/badge/Download-Offer_Letter-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Offer Letter">
+</a>
 ## 📑 Repository Contents
 
 Explore key projects and resources in this repository:
