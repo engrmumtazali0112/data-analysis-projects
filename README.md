@@ -13,10 +13,12 @@ Click the links below to download key documents from my Data Analysis Projects j
 Explore key projects and resources in this repository:
 
 ### 🔹 Distribution Visualization
-- **Description:** Visualize the distribution of categorical or continuous variables using bar charts or histograms.
-- **Objective:** Analyze the age or gender distribution in a population to identify trends.
-- **Dataset:** Custom or publicly available population data.
-- **Key Techniques:** Data visualization with `matplotlib` and `seaborn`.
+- **Description:** Visualized the population distribution across the top 20 countries in 2021 using bar charts.
+- **Objective:** Analyze global population trends and identify disparities among the most populous countries.
+- **Dataset:** [World Bank Population Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
+- **Key Techniques:** Data cleaning with `pandas`, data visualization with `matplotlib`, and analytical insights into demographic distributions.
+- **Report:** [Download Report](https://github.com/engrmumtazali0112/data-analysis-projects/blob/main/Distribution-Visualization/Report-Distribution-Visualization.docx)
+
 
 ### 🔹 Titanic Dataset Analysis
 - **Description:** Perform data cleaning and EDA on the Titanic dataset.
